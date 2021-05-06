@@ -1,0 +1,3 @@
+# phsgame.com
+
+phosphorus is the official Token of PHS Game. Phs game is a project for trivia game that you can earn and consume your PHS token during this game to earn money...  
